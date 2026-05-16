@@ -156,3 +156,5 @@ reddit_project_data/
 *.zip
 *.json
 *.jsonl
+
+/colabgpu
